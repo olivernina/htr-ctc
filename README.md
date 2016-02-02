@@ -33,7 +33,3 @@ run inside rnn_ctc
 * Numpy
 * Theano
 
-Can easily port to python2 by adding lines like these where necessary:
-``` python
-from __future__ import print_function
-```
