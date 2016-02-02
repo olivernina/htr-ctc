@@ -6,9 +6,11 @@ Send me an email to get the transcriptorium data (hwdata.pkl). olivernina@gmail.
 ## Usage
 
 you might need to create a python3 environment first if you don't have it i.e.:
+
 ```conda create -n py3k python=3 anaconda```
 
 To run the training of ctc in GPU. first activate the python3 environment with 
+
 ```source activate py3k```
 
 you can see the tutorial https://www.continuum.io/content/python-3-support-anaconda
