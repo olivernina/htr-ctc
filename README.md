@@ -1,5 +1,5 @@
 # htr-ctc
--This tool is under development. There are some issues with the cost function. However, you can try is if you would like
+-This tool is under development. There are some issues with the cost function. However, you can try it if you would like
 Send me an email to get the transcriptorium data (hwdata.pkl). olivernina@gmail.com
 
 
