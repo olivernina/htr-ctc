@@ -1,6 +1,7 @@
 # htr-ctc
--This tool is under development. There are some issues with the cost function. However, you can try it if you would like
-Send me an email to get the transcriptorium data (hwdata.pkl). olivernina@gmail.com
+-This tool is not longer supported and has been discontinued.
+Please see our new library in Pytorch which we use on the ICFHR 2018 READ dataset competition where we ranked 2nd place. 
+https://github.com/olivernina/nephi
 
 
 ## Usage
